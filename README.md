@@ -11,3 +11,6 @@
     - Archivos en formato csv por carrera y proceso, uno para Postulantes-Vacantes y otro para Puntaje Máximo y Mínimo.
 * cache/ 
     - Archivos html descargados por el parser
+
+## Demo:
+![csunsa-demo](https://raw.githubusercontent.com/romeluko/csparser/master/csunsa-demo.png)
