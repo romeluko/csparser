@@ -1,12 +1,11 @@
-Copylight 2015 - romeluko@gmail.com
+# Copylight 2015 - romeluko@gmail.com
 
-Dependencias:
+## Dependencias:
     sudo apt-get install python-bs4
 
-Ejecución:
+## Ejecución:
     python csparser.py
 
-Directorios:
-    data/ --    Archivos en formato csv por carrera, proceso, 
-                uno para Postulantes-Vacantes y otro para Puntaje Máximo y Mínimo.
-    cache/ --   Archivos html descargados por el parser
+## Directorios:
+* data/ --    Archivos en formato csv por carrera y proceso, uno para Postulantes-Vacantes y otro para Puntaje Máximo y Mínimo.
+* cache/ --   Archivos html descargados por el parser
